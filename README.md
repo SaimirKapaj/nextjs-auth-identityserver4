@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) and [`NextAuth.js`](https://https://next-auth.js.org/) using [`IdentityServer4`](https://identityserver4.readthedocs.io/) as a Authentication Provider.
+This is a [Next.js](https://nextjs.org/) and [`NextAuth.js`](https://https://next-auth.js.org/) project using [`IdentityServer4`](https://identityserver4.readthedocs.io/) as a Authentication Provider.
 
 ## Getting Started
 
