@@ -11,3 +11,17 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
+
+## Environment variables
+
+Update the environment variables:
+
+```bash
+NEXTAUTH_URL: ''
+IdentityServer4_ID = ''
+IdentityServer4_NAME = ''
+IdentityServer4_SCOPE = ''
+IdentityServer4_DOMAIN = ''
+IdentityServer4_CLIENT_ID = ''
+IdentityServer4_CLIENT_SECRET = ''
+```
